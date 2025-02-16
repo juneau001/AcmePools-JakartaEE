@@ -1,2 +1,4 @@
-# AcmePools-JakartaEE
-Jakarta EE 10 Example Using PrimeFaces
+AcmePools
+=========
+
+PrimeFaces Enterprise Application Example running on Jakarta EE 10.
